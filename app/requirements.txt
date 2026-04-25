@@ -1,4 +1,4 @@
-streamlit==1.38.0
+streamlit_app.py
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
 langchain-ollama==0.2.2
